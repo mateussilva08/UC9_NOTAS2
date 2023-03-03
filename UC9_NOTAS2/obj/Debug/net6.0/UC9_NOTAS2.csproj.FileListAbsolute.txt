@@ -1,0 +1,15 @@
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\UC9_NOTAS2.exe
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\UC9_NOTAS2.deps.json
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\UC9_NOTAS2.runtimeconfig.json
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\UC9_NOTAS2.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\ref\UC9_NOTAS2.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\bin\Debug\net6.0\UC9_NOTAS2.pdb
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.csproj.AssemblyReference.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.AssemblyInfoInputs.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.AssemblyInfo.cs
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.csproj.CoreCompileInputs.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\ref\UC9_NOTAS2.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.pdb
+C:\Users\mateus.rsilva30\source\repos\UC9_NOTAS2\UC9_NOTAS2\obj\Debug\net6.0\UC9_NOTAS2.genruntimeconfig.cache
