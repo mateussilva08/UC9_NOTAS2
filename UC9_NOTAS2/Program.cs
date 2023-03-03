@@ -39,7 +39,7 @@ for (i = 1; i <= 5; i++)
     Console.WriteLine("Informe a nota do trabalho");
     trabalho = double.Parse(Console.ReadLine());
 
-    md = (prova1 * peso1 + prova2 * peso2 + prova3 * peso3) / (peso1 + peso2 + peso3);
+    md = (prova1 * peso1 + prova2 * peso2 + prova3 * peso3) / (peso1 + peso2 + peso3) + trabalho;
     faltastotal = (faltas * 100) / aulas;
     presenca = 100 - faltastotal;
 
