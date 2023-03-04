@@ -7,9 +7,9 @@ double prova1 = 0;
 double prova2 = 0;
 double prova3 = 0;
 double trabalho = 0;
-double peso1 = 30;
-double peso2 = 25;
-double peso3 = 35;
+double peso1 = 0.3;
+double peso2 = 0.25;
+double peso3 = 0.35;
 double md = 0;
 double presenca = 0;
 string resultado = "";
@@ -45,21 +45,21 @@ for (i = 1; i <= 5; i++)
 
 
 
-    if (md >= 6 && presenca > 25)
+    if (md >= 6 && presenca >= 75)
     {
-        Console.WriteLine(aluno + ", Aprovado com " + md.ToString("F") + " de media e " + presenca + " de menção");
+        Console.WriteLine(aluno + ", Aprovado com " + md.ToString("F") + " de media e " + presenca + "% presença");
     }
-    if (md < 6 && presenca >= 25)
+    if (md < 6 && presenca >= 75)
     {
-        Console.WriteLine(aluno + ", Reprovado por menção com " + md.ToString("F") + " de media");
+        Console.WriteLine(aluno + ", Reprovado por notas com " + md.ToString("F") + " de media");
     }
-    if (md > 6 && presenca < 25)
+    if (md > 6 && presenca < 75)
     {
-        Console.WriteLine(aluno + ", Reprovado por faltas com " + presenca + " de menção");
+        Console.WriteLine(aluno + ", Reprovado por faltas com " + presenca + "% de presença");
     }
-    if (md < 6 && presenca < 25)
+    if (md < 6 && presenca < 75)
     {
-        Console.WriteLine(aluno + ", Reprovado por menção e faltas com " + md.ToString("F") + " de media e " + presenca + " de menção");
+        Console.WriteLine(aluno + ", Reprovado por menção e faltas com " + md.ToString("F") + " de media e " + presenca + "% de presença");
     }
 
     Console.WriteLine("Pressione ENTER para continuar");
